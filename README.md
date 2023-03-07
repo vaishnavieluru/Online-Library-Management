@@ -5,9 +5,9 @@ This project manages and stores book info in Relational Database using **PHP** a
 
 ## Working
 1. **Xampp server** should be installed on your device.
-2. clone this [git repository](https://github.com/keerthanapalepu/OnlineLibrary) into a existing directory `C:\xampp\htdocs\`
+2. clone this [git repository](https://github.com/vaishnavieluru/Online-Library-Management) into a existing directory `C:\xampp\htdocs\`
 3. start your xampp server
-4. Import the [librarybd.sql](https://github.com/keerthanapalepu/OnlineLibrary/blob/main/librarydb.sql) file into **phpmyadmin**, which is designed to handle MySQL administration over the Internet.
+4. Import the [librarybd.sql](https://github.com/vaishnavieluru/Online-Library-Management/blob/main/librarydb.sql) file into **phpmyadmin**, which is designed to handle MySQL administration over the Internet.
 5. In the browser, navigate to the path of your project, prefixed with **localhost/**.`http://localhost/xampp/htdocs/OnlineLibrary/` like so.
 
 ## About the project
