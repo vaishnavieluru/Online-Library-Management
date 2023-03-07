@@ -39,4 +39,4 @@ The user or administrator can input the type of book/magazine/article he is look
 
 
 ## Credits
-[Keerthana Palepu](https://github.com/keerthanapalepu)
+[Vaishnavi Eluru](https://github.com/github)
